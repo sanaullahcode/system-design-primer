@@ -2,7 +2,6 @@
 
 A personal study fork of the System Design Primer, maintained as a structured reference for system design interview preparation and software architecture learning.
 
-This fork adds an automated EPUB build pipeline and cleaned-up tooling on top of the original content.
 
 ## Contents
 
@@ -40,13 +39,4 @@ The script produces the following files in the project root:
 - `README-zh-TW.epub` (Traditional Chinese)
 
 ## Contributing
-
-Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
-
-## Acknowledgements
-
-The original project was created by [Donne Martin](https://github.com/donnemartin/system-design-primer). Full credit goes to the original author and the translation maintainers.
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. Original content remains subject to the terms set by its upstream author.
+nder the MIT License. See [LICENSE](LICENSE) for details. 
